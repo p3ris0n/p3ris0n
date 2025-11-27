@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm p3ris0n, a software developer with serious skill-issues.
 
 ## What I know?
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## What I've done?
