@@ -29,6 +29,6 @@ Check out my GitHub.
 I'm always open to collaborating, learning, or just talking about game development.
 
 - 📧 **Email**: isaacsamson88@gmail.com
-- X (@PERIXN)
-- X (@esigaming)
+- X [PERIXN](https://twitter.com/PERIXN)
+- X [esigaming](https://twitter.com/esigaming)
 
