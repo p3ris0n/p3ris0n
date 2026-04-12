@@ -1,24 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Promise, but my folks call me p3ris0n...
 
-<!--
-**p3ris0n/p3ris0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I'm a **Unity Game Developer**, **AI/ML engineer (in my free time)** and Contributor on the **Stellar Blockchain**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools I Use
 
-I'm p3ris0n, a software developer with serious skill-issues.
+- 🧠 C# | Python | Rust 
+- ⚙️ Pandas | NumPy | MatPlotLib | Node.js | DSA
+- 🤖 AI/ML Development
+- 🌐 Stellar Blockchain Development w/ Soroban
+- 🎨 2D/3D Game Development  
+- 🧪 Git & GitHub for Version Control  
+- 🛠️ VSCode, PyCharm, JuPyTer, Visual Studio 2022, Unity Engine, Blender
 
-## What I know?
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-## What I've done?
-![Your Stats](https://github-readme-stats.vercel.app/api?username=p3ris0n&show_icons=true&theme=radical)
+## 🚀 Projects & Portfolio
+
+Check out my GitHub.
+
+🔗 **Repos**: [Website](https://github.com/p3ris0n/)  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating, learning, or just talking about game development.
+
+- 📧 **Email**: isaacsamson88@gmail.com
+- X (@PERIXN)
+- X (@esigaming)
+
