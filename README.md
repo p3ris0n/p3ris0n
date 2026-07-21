@@ -20,7 +20,7 @@
 
 Check out my GitHub.
 
-🔗 **Repos**: [GitHub](https://github.com/p3ris0n/)  
+🔗 **Repos**: [p3ris0n](https://github.com/p3ris0n/)  
 
 ---
 
