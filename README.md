@@ -22,7 +22,7 @@ Check out my GitHub.
 
 🔗 **Repos**: [p3ris0n](https://github.com/p3ris0n/)
 
-🌐 **Portfolio**: [p3ris0n.com] (https://p3ris0n.vercel.app)
+🌐 **Portfolio**: [p3ris0n.com](https://p3ris0n.vercel.app)
 
 
 ---
